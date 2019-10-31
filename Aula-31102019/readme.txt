@@ -1,5 +1,7 @@
 Streamsets:
 http://54.81.105.53:18630
+usr: admin
+pw: admin
 
 Kafka SSH
 54.147.97.205
