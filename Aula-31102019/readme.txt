@@ -8,7 +8,7 @@ Kafka SSH
 
 EMR SSH:
 34.238.189.68
-
+spark-shell -i <nome do arquivo>.scala
 SQL RDP
 18.232.85.230
 usr: administrator
