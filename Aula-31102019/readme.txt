@@ -9,5 +9,8 @@ EMR SSH:
 
 SQL RDP
 18.232.85.230
+usr: administrator
+pw: M$2aKjFT%wmye2Q;QrWwM$*pDHMC(O6=
+
 
 
