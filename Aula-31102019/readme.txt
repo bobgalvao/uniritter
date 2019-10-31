@@ -1,1 +1,13 @@
-streaming
+Streamsets:
+http://54.81.105.53:18630
+
+Kafka SSH
+54.147.97.205
+
+EMR SSH:
+34.238.189.68
+
+SQL RDP
+18.232.85.230
+
+
